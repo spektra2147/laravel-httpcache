@@ -1,5 +1,5 @@
 {
-    "name": "barryvdh/laravel-httpcache",
+    "name": "spektra2147/laravel-httpcache",
     "description": "HttpCache for Laravel",
     "license": "MIT",
     "keywords": ["laravel", "httpcache", "cache", "esi"],
